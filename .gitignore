@@ -1,0 +1,8 @@
+.vs/
+.vscode/
+
+# Ignore PDF files
+*.pdf
+
+# Ignore text documents
+*.txt
