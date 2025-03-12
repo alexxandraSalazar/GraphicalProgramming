@@ -101,13 +101,14 @@ Now press `Ctrl + F5` and you will see a black window.
 
 To properly initialize GLEW, it must be set up **after** creating the OpenGL context. Modify the OpenGL setup to include:
 
-
+```cpp
 /* Make the window's context current */
 glfwMakeContextCurrent(window);
 
 // Initialize GLEW
 if (glewInit() != GLEW_OK)
     std::cout << "Error!" << std::endl;
+```
 
 ---
 # Setting Up OpenGL and GLFW in Visual Studio 2022
