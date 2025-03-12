@@ -255,3 +255,4 @@ glfwMakeContextCurrent(window);
 // Initialize GLEW
 if (glewInit() != GLEW_OK)
     std::cout << "Error initializing GLEW!" << std::endl;
+```
