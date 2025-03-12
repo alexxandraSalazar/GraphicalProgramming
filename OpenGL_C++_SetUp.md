@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Setting Up OpenGL and GLFW in Visual Studio  2022
+=======
+# Setting Up OpenGL and GLFW in Visual Studio 2022
+>>>>>>> 9547bd1176604359577c88a461ff7c6407ca78b5
 
 For this, I am using **Visual Studio  2022**. If you don’t already have the setup for using **C++**, that should be your first step.
 
